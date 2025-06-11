@@ -11,3 +11,5 @@ youtube_search
 langgraph
 chromadb
 langchain-chroma
+langchain-google-community[drive]
+
