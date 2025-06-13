@@ -12,4 +12,6 @@ langgraph
 chromadb
 langchain-chroma
 langchain-google-community[drive]
+langchain_huggingface
+sentence-transformers
 
